@@ -49,9 +49,11 @@ Hi, my name is Fahim and I’m a self-taught developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senjufy&hide=stars)
 
-<data>
+<p align="right">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper)](https://github.com/senjufy/image-scraper)
+
+</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=facebook-clone)](https://github.com/senjufy/facebook-clone)
 
@@ -69,19 +71,8 @@ Hi, my name is Fahim and I’m a self-taught developer.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=spaceX-clone)](https://github.com/senjufy/spaceX-clone)
 
-</data>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senjufy&layout=compact)
 
 [website]: https://www.linkedin.com/in/fahim-islam-b53265209/
 [twitter]: https://twitter.com/Fahim_senju
 [instagram]: https://www.instagram.com/f.senju/
-
-<style>
-    data {
-        display: flex;
-        flex-wrap: wrap;
-        column-gap: 13px;
-        background-color: transparent;
-    }
-</style>
