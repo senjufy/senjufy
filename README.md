@@ -78,10 +78,10 @@ Hi, my name is Fahim and I’m a self-taught developer.
 [instagram]: https://www.instagram.com/f.senju/
 
 <style>
-data{
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 13px;
-    background-color: transparent;
-}
+    data {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 13px;
+        background-color: transparent;
+    }
 </style>
