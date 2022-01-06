@@ -31,7 +31,7 @@ Hi, my name is Fahim and I’m a self-taught developer.
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJs" width="26px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
+<img align="left" alt="NextJs" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Y0uHbCNCw05pPd9Kw9AA7I3kA4I6ZW1E5YeYaeB4Acz0W02-YJzEQiEt81w-3sFT2aE&usqp=CAU" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" />
 <img align="left" alt="Redux" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYt62H1Y4Few9Yvkbh5WbnyuWkgkKQtn51bfAtDrnsWWby-mMJlSePh88PNGr3JGKbBcw&usqp=CAU" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
@@ -39,7 +39,7 @@ Hi, my name is Fahim and I’m a self-taught developer.
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -47,33 +47,18 @@ Hi, my name is Fahim and I’m a self-taught developer.
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senjufy&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://github.com/senjufy/image-scraper"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+<a href="https://github.com/senjufy/facebook-clone"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=facebook-clone" /></a>
+<a href="https://github.com/senjufy/workflow"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=workflow" /></a>
+<a href="https://github.com/senjufy/amazon-MERN"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=amazon-MERN" /></a>
+<a href="https://github.com/senjufy/task-man"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=task-man" /></a>
+<a href="https://github.com/senjufy/netflix-Clone"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=netflix-Clone" /></a>
+<a href="https://github.com/senjufy/disneyPlus-clone"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=disneyPlus-clone" /></a>
+<a href="https://github.com/senjufy/PassGen"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=PassGen" /></a>
+<a href="https://github.com/senjufy/spaceX-clone"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=spaceX-clone" /></a>
 <br/>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
-  
-  <br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper)](https://github.com/senjufy/image-scraper)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=facebook-clone)](https://github.com/senjufy/facebook-clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=workflow)](https://github.com/senjufy/workflow)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=amazon-MERN)](https://github.com/senjufy/amazon-MERN)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=task-man)](https://github.com/senjufy/task-man)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=netflix-clone)](https://github.com/senjufy/netflix-Clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=disneyPlus-clone)](https://github.com/senjufy/disneyPlus-clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=PassGen)](https://github.com/senjufy/PassGen)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=spaceX-clone)](https://github.com/senjufy/spaceX-clone)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senjufy&layout=compact)
 
