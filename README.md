@@ -47,13 +47,17 @@ Hi, my name is Fahim and I’m a self-taught developer.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senjufy&hide=stars)
-
-<p align="right">
+<br/>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+    <a href="https://github.com/senjufy/senjufy"><img alt="Senjufy" src="https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper" /></a>
+  
+  <br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=image-scraper)](https://github.com/senjufy/image-scraper)
-
-</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=senjufy&repo=facebook-clone)](https://github.com/senjufy/facebook-clone)
 
