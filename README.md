@@ -32,7 +32,6 @@ Hi, my name is Fahim and I’m a self-taught developer.
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NextJs" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Y0uHbCNCw05pPd9Kw9AA7I3kA4I6ZW1E5YeYaeB4Acz0W02-YJzEQiEt81w-3sFT2aE&usqp=CAU" />
-<img align="left" alt="TailwindCSS" width="26px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" />
 <img align="left" alt="Redux" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYt62H1Y4Few9Yvkbh5WbnyuWkgkKQtn51bfAtDrnsWWby-mMJlSePh88PNGr3JGKbBcw&usqp=CAU" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
