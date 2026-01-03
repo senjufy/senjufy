@@ -25,12 +25,6 @@ With over **5 years of professional experience**  building high-performance web 
 
 ---
 
-### 📊 Engineering Stats
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=senjufy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senjufy&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahimdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Fahim_dev01)
